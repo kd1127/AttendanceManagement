@@ -60,7 +60,7 @@ public class InputDBAccess {
 		}
 	}
 	
-	//	データベース検索処理 全体
+	//	データベース検索処理
 	public List<InputBean> dataSearchInfo() throws SQLException{
 		
 		PreparedStatement pstmt = null;
@@ -127,6 +127,7 @@ public class InputDBAccess {
 		return list;
 	}
 	
+	//	入力エラーチェック用メソッド
 	public String errorCheckDbAccess(String anumber)  throws SQLException{
 		
 		//	引数は検索したい値
