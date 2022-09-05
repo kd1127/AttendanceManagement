@@ -23,8 +23,10 @@ public class InputAction extends HttpServlet {
 		
 		String path = "";
 		
-		int capacity = 0;		//capacitycvをint型変換後の変数		//	入力エラーチェック時に使用する変数 conversionからcvを取った
-		String number = ""; 										//	同上
+		int capacity = 0;			//capacitycvをint型変換後の変数		//	入力エラーチェック時に使用する変数 conversionからcvを取った
+		String number = "";										//	同上
+		
+		boolean flag = false, flag2 = false, flag3 = false;		//	講座開催日のフラグ
 		
 		InputDBAccess idb = new InputDBAccess();
 		
