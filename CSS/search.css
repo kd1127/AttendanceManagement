@@ -1,0 +1,243 @@
+@charset "UTF-8";
+
+/*	複数のJSPで使用	*/
+.title{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+}
+
+.explanation{
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+
+.parts{
+	margin-left: 50pt;
+	padding-left: 50;
+}
+
+.parts2{
+	margin-left: 50pt;
+	padding-left: 50;
+	width: 50pt;
+}
+
+.parts3{
+	width: 50pt;
+}
+
+.parts4{
+	width: 30pt;
+}
+
+/*	search.jsp	*/
+.tbesearch{
+	color: blue;
+	text-align: left;
+	margin-left: 320pt;
+	margin-bottom: -30pt;
+	padding-bottom: 30pt;
+	font-weight: bold;
+}
+
+.button{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 450pt;
+	margin-right: -300pt;
+	margin-bottom: 10pt;
+	margin-top: -500pt;
+	width: 120px;
+}
+
+.button2{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 450pt;
+	margin-right: -300pt;
+	margin-bottom: 10pt;
+	margin-top: -20pt;
+	width: 120px;
+}
+
+span{
+	color: black;
+}
+
+/*	courceList.jsp	*/
+.courceList{
+	text-align: left;
+	margin-left: 200pt;
+	
+	width: 700pt;
+}
+
+.button3{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	width: 60px;
+}
+
+.button4{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-top: 20pt;
+	margin-left: 800pt;
+	width: 150px;
+}
+
+/*	courceDelete.jsp */
+.cdtable{
+	color: blue;
+	text-align: center;
+	margin-left: 300pt;
+	margin-bottom: 0pt;
+	padding-bottom: 30pt;
+	font-weight: bold;
+}
+
+.button5{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 420pt;
+	margin-right: -370pt;
+	width: 110px;
+}
+
+.position7{
+	margin-left: -10pt;
+	color: black;
+	font-weight: bold;
+}
+
+.position8{
+	margin-left: 30pt;
+	color: black;
+	font-weight: bold;
+}
+
+/*	deleteConfirmed.jsp	*/
+.button6{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 460pt;
+	width: 130px;
+}
+
+/*	courceFix.jsp	*/
+.box{
+	background-color: #ffff99;
+	border: solid 2px;
+	color: red;
+	margin-left: 350pt;
+	margin-right: 350pt;
+	margin-bottom: 20pt;
+}
+
+.fixtable{
+	color:blue;
+	font-weight: bold;
+	margin-left: 400pt;
+}
+
+.button7{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-top: 10pt;
+	margin-left: 420pt;
+	margin-right: -370pt;
+	width: 110px;
+}
+
+/*	confirm.jsp	*/
+.confirmtbl{
+	color: blue;
+	text-align: center;
+	margin-left: 400pt;
+	margin-bottom: 0pt;
+	padding-bottom: 0pt;
+	font-weight: bold;
+}
+
+.fontcolor{
+	color: black;
+	font-weight: bold;
+	padding-left: 40pt;
+}
+
+.fontdeco{
+	color: black;
+	font-weight: bold;
+	margin-left: -60pt;
+}
+
+.position{
+	margin-left: -75pt;
+	color: black;
+	font-weight: bold;
+}
+
+.position2{
+	margin-left: -44pt;
+	color: black;
+	font-weight: bold;
+}
+
+.position3{
+	margin-left: -10pt;
+	color: black;
+	font-weight: bold;
+}
+
+.position4{
+	margin-left: 30pt;
+	color: black;
+	font-weight: bold;
+}
+
+.position5{
+	margin-left: -10pt;
+}
+
+.position6{
+	margin-left: 30pt;
+	font-weight: bold;
+}
+
+.button8{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-top: 10pt;
+	margin-left: 420pt;
+	margin-right: -370pt;
+	width: 110px;
+}
+
+/*	confirmed.jsp	*/
+.button9{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 460pt;
+	margin-bottom: 20pt;
+	width: 130px;
+}

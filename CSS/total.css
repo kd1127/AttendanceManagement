@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+/*	複数のJSPで使用	*/
+span{
+	color: red;
+}
+
+.title{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+}
+
+.caution{
+	text-align: center;
+	color: red;
+}
+
+.button{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	background-color: #00ff00;
+	border-radius: 10%;
+	padding-left: -200pt;
+	margin-left: 130pt;
+	margin-top: 10pt;
+	width: 150px;
+}
+
+.box{
+	background-color: #ffff99;
+	border: solid 2px;
+	color: red;
+	margin-left: 350pt;
+	margin-right: 350pt;
+	margin-bottom: 20pt;
+}
+
+.userid{
+	margin-left: 300pt;
+	color: blue;
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+.clchange{
+	color: black;
+}
+
+/*	login.jsp	*/
+.tblayout{
+	margin-top: -10pt;
+	margin-left: 320pt;
+	color: blue;
+	font-weight: bold;
+}
+
+.headline{
+	padding-left: 30pt;
+}
+
+.text{
+	margin-left: -180pt;
+}
+
+.guidance{
+	padding-left: 90pt;
+	padding-top: 30pt;	
+}
+
+/*	userRegister	*/
+.tblayout2{
+	margin-top: -10pt;
+	margin-left: 300pt;
+	color: blue;
+	font-weight: bold;
+}
+
+.headline2{
+	padding-left: -10pt;
+}
+
+.text2{
+	margin-left: 0pt;
+}
+
+.button2{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	padding-left: -200pt;
+	margin-left: 50pt;
+	margin-right: -20pt;
+	margin-top: 10pt;
+	width: 150px;
+}
+
+/*	confimation.jsp	*/
+.button3{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	padding-left: -200pt;
+	margin-left: 350pt;
+	margin-right: -300pt;
+	margin-top: 10pt;
+	width: 150px;
+}
+
+/*	confirmed.jsp	*/
+.guidance2{
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+
+.button4{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	background-color: #00ff00;
+	border-radius: 10%;
+	padding-left: -100pt;
+	margin-left: 450pt;
+	margin-top: 10pt;
+	width: 150px;
+}

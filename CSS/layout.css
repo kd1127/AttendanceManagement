@@ -1,0 +1,186 @@
+@charset "UTF-8";
+
+span{
+	color: red;
+}
+
+div{
+	color: black;
+	font-weight: normal;
+}
+
+/*	menu.jspで使用	*/
+.headline{
+	text-align: center;
+}
+
+.tbelayout{
+	text-align: center;
+	margin-left: 50pt;
+	margin-top: -50pt;
+	margin-bottom: -0pt;
+	padding-top: -50;
+	padding-bottom: 0pt;
+}
+
+.button{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-bottom: -50pt;
+	margin-left: 450pt;
+	margin-top: 10pt;
+	padding-top: 0pt;;
+	width: 100px;
+}
+
+.right{
+	margin-left: 600pt;
+}
+
+/*	複数のjspで使用	*/
+.title{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+}
+
+.caution{
+	text-align: center;
+	color: red;
+}
+
+/*	input.jspで使用		*/
+.tbeinput{
+	color: blue;
+	text-align: center;
+	margin-left: 300pt;
+	margin-bottom: 0pt;
+	padding-bottom: 30pt;
+	font-weight: bold;
+}
+
+.button2{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 370pt;
+	margin-right: -300pt;
+	margin-bottom: 50pt;
+	margin-top: -100pt;
+	width: 100px;
+}
+
+.box{
+	background-color: #ffff99;
+	border: solid 2px;
+	color: red;
+	margin-left: 350pt;
+	margin-right: 350pt;
+	margin-bottom: 20pt;
+}
+
+.notcss{
+	color: red;
+}
+
+.inposition{
+	margin-left: 32pt;
+}
+
+.inposition2{
+	margin-left: -23pt;
+	width: 40pt;
+}
+
+.inposition3{
+	margin-left: 15pt;
+}
+
+.resize{
+	width: 40pt;
+}
+
+/* conf.jspで使用 */
+.conftbl{
+	color: blue;
+	text-align: center;
+	margin-left: 400pt;
+	margin-bottom: 0pt;
+	padding-bottom: 30pt;
+	font-weight: bold;
+}
+
+td{
+	margin-right: 50pt;
+	padding-right: 50pt;;
+}
+
+.fontcolor{
+	color: black;
+	font-weight: normal;
+	padding-left: 0pt;
+}
+
+.button3{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-left: 390pt;
+	margin-right: -300pt;
+	margin-bottom: 100pt;
+	margin-top: -10000pt;
+	width: 100px;
+}
+
+.fontdeco{
+	color: black;
+	font-weight: normal;
+	margin-left: -10pt;
+}
+
+.position{
+	margin-left: -28pt;
+	color: black;
+	font-weight: normal;
+}
+
+.position2{
+	margin-left: -0pt;
+	color: black;
+	font-weight: normal;
+}
+
+.position3{
+	margin-left: 10pt;
+	color: black;
+	font-weight: normal;
+}
+
+.position4{
+	margin-left: 10pt;
+	color: black;
+	font-weight: normal;
+}
+
+/*	end.jspで使用	*/
+.headline2{
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+}
+
+.button4{
+	text-align: center;
+	color: blue;
+	background-color: #00ff00;
+	border-radius: 10%;
+	margin-bottom: -80pt;
+	margin-left: 450pt;
+	margin-top: 10pt;
+	padding-top: 0pt;
+	width: 120px;
+}
